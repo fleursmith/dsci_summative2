@@ -21,6 +21,6 @@ This project explores how demographic, lifestyle, and medical risk factors relat
 How do demographic, lifestyle, and medical risk factors individually and jointly influence the likelihood of developing major health conditions within a synthetic dataset, and how can these relationships be used to prototype predictive tools?
 
 ### *Project Contents*
-requirements.txt: list of libraries needed to run the project  
-.gitignore: specifies files and folders for git to ignore (not track)
-README.md: project overview
+* requirements.txt: list of libraries needed to run the project  
+* .gitignore: specifies files and folders for git to ignore (not track)
+* README.md: project overview
