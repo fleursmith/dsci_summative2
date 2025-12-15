@@ -204,7 +204,7 @@ def multinomial_logistic_classification(df,predictor_variables,categorical_var):
 
     log_model = LogisticRegression(
         solver='lbfgs',
-        max_iter=100,
+        max_iter=2500,
         random_state=42
     )
     log_model.fit(x_train, y_train)
